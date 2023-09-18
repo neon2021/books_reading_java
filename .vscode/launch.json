@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PiCalculator",
+            "request": "launch",
+            "mainClass": "chapter01.calculate.pi.PiCalculator",
+            "projectName": "ccspij"
+        },
+        {
+            "type": "java",
+            "name": "UnbreakableEncryption",
+            "request": "launch",
+            "mainClass": "chapter01.unbreakable.encryption.UnbreakableEncryption",
+            "projectName": "ccspij"
+        },
+        {
+            "type": "java",
+            "name": "CompressedGene",
+            "request": "launch",
+            "mainClass": "chapter01.CompressedGene",
+            "projectName": "ccspij"
+        },
+        {
+            "type": "java",
+            "name": "Fib3",
+            "request": "launch",
+            "mainClass": "chapter01.Fib3",
+            "projectName": "ccspij"
+        },
+        {
+            "type": "java",
+            "name": "Fib2",
+            "request": "launch",
+            "mainClass": "chapter01.Fib2",
+            "projectName": "ccspij"
+        },
+        {
+            "type": "java",
+            "name": "Fib1",
+            "request": "launch",
+            "mainClass": "chapter01.Fib1",
+            "projectName": "ccspij"
+        },
+        {
+            "type": "java",
+            "name": "GuavaBloomFilterTest",
+            "request": "launch",
+            "mainClass": "com.book.reading.java.GuavaBloomFilterTest",
+            "projectName": "reading"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.book.reading.java.App",
+            "projectName": "reading"
+        },
+        {
+            "type": "java",
+            "name": "SemaphoreTest",
+            "request": "launch",
+            "mainClass": "com.book.reading.java.elegant.concurrent.SemaphoreTest",
+            "projectName": "reading"
+        }
+    ]
+}
